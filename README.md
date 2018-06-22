@@ -1,0 +1,2 @@
+# AzureHourlySearchRequestData
+HourlySearchRequestData
